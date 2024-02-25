@@ -9,4 +9,5 @@ class FullstackApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+
 }
